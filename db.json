@@ -4,5 +4,9 @@
             "id": 1,
             "title": "ajuda aqui"
         }
-    ]
+    ],
+    "get": {
+        "id": 2,
+        "title": "Get Requests"
+    }
 }
