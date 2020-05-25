@@ -8,5 +8,10 @@
     "get": {
         "id": 2,
         "title": "Get Requests"
+    },
+    "notification":{
+        "id": 0,
+        "title": "Bateria Fraca",
+        "Description": "A bateria está abaixo de 20%, favor autorizar Temi carregar!"
     }
 }
